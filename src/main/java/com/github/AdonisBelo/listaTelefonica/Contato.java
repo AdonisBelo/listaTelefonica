@@ -6,4 +6,6 @@ public class Contato {
 	//Telefone [] telefones;
 	String [] emails;
 	
+	//COMENTARIO
+	
 }
